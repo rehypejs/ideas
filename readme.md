@@ -5,4 +5,4 @@ Share ideas for new utilities and tools built with **rehype** by
 or find ideas to hack on by browsing
 [open ideas](https://github.com/rehypejs/ideas/issues)
 
-> > :bulb: now part of https://github.com/rehypejs/rehype/discussions/categories/ideas
+> :bulb: now part of https://github.com/rehypejs/rehype/discussions/categories/ideas
